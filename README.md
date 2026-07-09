@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Kevin Robinson
 
 ### Head of Cybersecurity Services | CISSP | QTE | Associate C|CISO
-### Founder, Cybertechna | strategic. security.
+### Founder, [Cybertechna](https://cybertechna.com) | strategic. security.
 
 Welcome to my GitHub! I am a dynamic information security leader with over 20 years of multidisciplinary experience across **cybersecurity, risk assessment, intelligence, and counterintelligence**. I specialize in building comprehensive enterprise security programs, translating complex technical risks into strategic business enablement, and turning organizational adversaries into allies.
+
 ---
+
 ## ⏳ The Journey: From History to Cybersecurity
 
 I often say I took "the long road" into cybersecurity, but looking back, every step was entirely interconnected. 
@@ -53,4 +55,4 @@ Whether managing classified federal defensive platforms or orchestrating top-of-
 
 ## 🤝 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in/robinsonkw](https://linkedin.com/in/robinsonkw)
-* 📧 **Email:** kevin@cybertechna.com
+* 📧 **Email:** [kevin@cybertechna.com](mailto:kevin@cybertechna.com)
