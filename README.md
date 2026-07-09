@@ -4,6 +4,14 @@
 ### Founder, Cybertechna | strategic. security.
 
 Welcome to my GitHub! I am a dynamic information security leader with over 20 years of multidisciplinary experience across **cybersecurity, risk assessment, intelligence, and counterintelligence**. I specialize in building comprehensive enterprise security programs, translating complex technical risks into strategic business enablement, and turning organizational adversaries into allies.
+---
+## ⏳ The Journey: From History to Cybersecurity
+
+I often say I took "the long road" into cybersecurity, but looking back, every step was entirely interconnected. 
+
+My foundation started in **History**, which trained me to analyze complex data sets, detect macro patterns, and understand human motivation. Seeking to apply these analytical frameworks to real-world threats, I transitioned into **Counterintelligence and Intelligence Analysis**. There, I spent years mapping adversary behavior, evaluating global risks, and advising high-level policymakers. 
+
+As the geopolitical landscape shifted to the digital domain, my focus naturally evolved into **Cyber Intelligence**. Tracking threat actors in cyberspace revealed a critical truth: technical vulnerabilities are ultimately driven by human adversaries. This realization led me directly into **Cybersecurity Leadership**—where I now combine a deep, multidisciplinary understanding of risk with hands-on infrastructure defense to protect enterprise operations from today's most sophisticated threats.
 
 ---
 
